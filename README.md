@@ -27,3 +27,6 @@ https://help.github.com/articles/viewing-contributions
 http://github.com/explore
 http://guides.github.com/
 http://youtube.com/githubguides
+
+Linking Issues and Commits 
+https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue
